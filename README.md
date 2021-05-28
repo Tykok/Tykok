@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @Tykok
+- 👀 I am interested in everything related to IT (very broad)
+- 🌱 I am currently learning everything ... Yes I like to learn
+- 💞️ I want to collaborate on anything that can help me improve
+- 📫 How to reach me ... You can visit my portfolio treportelie.fr
