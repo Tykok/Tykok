@@ -47,6 +47,7 @@
 
 ### Latest projects start
 <!-- BLOG-POST-LIST:START -->
+- [Meta et AWS deviennent des partenaires stratégiques](https://dev.to/tykok/meta-et-aws-deviennent-des-partenaires-strategiques-50pb)
 <!-- BLOG-POST-LIST:END -->
 
 ___
