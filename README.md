@@ -18,7 +18,7 @@
 
 ### Languages and Tools
 
-#### Actually know :
+### Actually know :
 <br/>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -35,7 +35,7 @@
 <br/><br/>
 
 
-#### Learning :
+### Learning 
 
 <br/>
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -45,12 +45,23 @@
 
 ---
 
-### Latest projects start
+## Latest blog post
 <!-- BLOG-POST-LIST:START -->
-- [Meta et AWS deviennent des partenaires stratégiques](https://dev.to/tykok/meta-et-aws-deviennent-des-partenaires-strategiques-50pb)
 <!-- BLOG-POST-LIST:END -->
 
-___
+---
+
+## Github Stats
+
+<br/>
+<div align="center">
+<img alt="Langage stat" src="https://github-readme-stats.vercel.app/api/?username=tykok&theme=github_dark&layout=compact" />
+<br/><br/>
+<img alt="Langage stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tykok&theme=github_dark&layout=compact" />
+
+</div>
+
+<br/>
 
 [website]: http://treportelie.fr
 [twitter]: https://twitter.com/TreportElie1
