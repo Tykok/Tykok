@@ -89,13 +89,13 @@
 
 ---
 
-<center>
+<div align="center">
 <h2> Don't hesitate, contact me to work together <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a target="_blank" href = 'https://www.linkedin.com/in/elie-treport'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a target="_blank" href = 'https://www.twitter.com/@TreportElie1'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a target="_blank" href = 'treportelie.fr'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a target="_blank" href = 'https://www.github.com/Tykok'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-</center>
+</div>
 
 [website]: http://treportelie.fr
 [twitter]: https://twitter.com/TreportElie1
