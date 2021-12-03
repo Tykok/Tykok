@@ -1,36 +1,59 @@
-### Hi I'm Tykok aka [Treport Elie][website] 👋 
+### Hi I'm Tykok aka [Treport Elie][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 ## Who am i ?
 
-- 🔭 I just start studying at [IPI School](https://www.ipi-ecoles.com) and work with [MecaLife](https://mecalife.com).
-- 🌱 I’m currently learning a lot of thing 😆.
+- 🕺 I'm Elie, a student who always want to learn new thing 😊.
+- 🏫 I just start studying at [IPI School](https://www.ipi-ecoles.com) and work with [MecaLife](https://mecalife.com) 🏎️.
+- 🌱 I’m currently learning a lot of thing 😆, and I'll start to create many project ideas 👷(written in a very small notebook 📓) .
 - 👯 I try to improve myself by working on different projects.
-- 🥅 2022 Goals: Create my first real project, and share it as much as possible.
-- ⚡ Fun fact: I love play gaming and I'll restart to draw soon (I will post my different drawing on my website).
+- 🎆 2022 Goals: Create my first real project, and share it as much as possible.
+- 🥳 I love playing videos games 🎮 and I'll restart to draw soon (I will post my different drawing on my website). But in my free time, generally i love to ride and joking with my friends 🚲.
 
 ### Connect with me:
 
-[<img align="left" alt="treportelie.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/follow-%23100000.svg?&logo=twitter&logoColor=blue?color=ffffff&style=for-the-badge" />][twitter]
+[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src="https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/>][github]
 
 <br />
+
+---
+
 
 ### Languages and Tools
 
 ### Actually know :
 <br/>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<code>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+</code>
+<code>
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+</code>
+<code>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+</code>
+<code>
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+</code>
+<code>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+</code>
+<code>
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+</code>
+<code>
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+</code>
+<code>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</code>
+<code>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</code>
 
 <br/><br/>
 
@@ -38,18 +61,18 @@
 ### Learning 
 
 <br/>
+<code>
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+</code>
+<code>
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+</code>
+
 <br />
 <br />
 
 ---
 
-## Latest blog post
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## Github Stats
 
@@ -63,6 +86,13 @@
 
 <br/>
 
+
+## Latest blog post
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 [website]: http://treportelie.fr
 [twitter]: https://twitter.com/TreportElie1
 [linkedin]: https://www.linkedin.com/in/elie-treport/
+[github]: https://github.com/Tykok
