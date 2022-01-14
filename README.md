@@ -63,6 +63,7 @@
 
 ## Latest blog post
 <!-- BLOG-POST-LIST:START -->
+- [The algorithms of the tech giants soon accessible by China?](https://dev.to/tykok/the-algorithms-of-the-tech-giants-soon-accessible-by-china-1p5f)
 - [Meta et AWS deviennent des partenaires stratégiques](https://dev.to/tykok/meta-et-aws-deviennent-des-partenaires-strategiques-50pb)
 <!-- BLOG-POST-LIST:END -->
 
