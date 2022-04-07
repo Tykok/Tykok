@@ -106,11 +106,11 @@
 
 ## Latest blog post
 <!-- BLOG-POST-LIST:START -->
+- [A French IA win against eight world champion of bridge](https://dev.to/tykok/a-french-ia-win-against-eight-world-champion-of-bridge-2akp)
 - [An auctions due to the close of &quot;United Front Games&quot; studio make a gamer really happy](https://dev.to/tykok/an-auctions-due-to-the-close-of-united-front-games-studio-make-a-gamer-really-happy-dkl)
 - [&quot;DALL-E&quot; Artificial intelligence that will draw your text](https://dev.to/tykok/dall-e-artificial-intelligence-that-will-draw-your-text-4ogg)
 - [Microsoft announces $68.7 billion buyout of Activision Blizzard](https://dev.to/tykok/microsoft-announces-687-billion-buyout-of-activision-blizzard-5d6j)
 - [The algorithms of the tech giants soon accessible by China?](https://dev.to/tykok/the-algorithms-of-the-tech-giants-soon-accessible-by-china-1p5f)
-- [Meta et AWS deviennent des partenaires stratégiques](https://dev.to/tykok/meta-et-aws-deviennent-des-partenaires-strategiques-50pb)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Todoist Stats
