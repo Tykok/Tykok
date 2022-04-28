@@ -132,6 +132,12 @@
 <a href="https://dev.to/@tykok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@tykok" height="30" width="40" /></a>
 </div>
 
+
+<a href="https://www.buymeacoffee.com/tykok">
+<img src="https://imgs.search.brave.com/UAT3nr_cBl_JYiBTvYfzhY4c4Q82Ogt5afdnI5f-hfE/rs:fit:640:360:1/g:ce/aHR0cHM6Ly9pMS53/cC5jb20vZnJlZS5j/b20udHcvYmxvZy93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOC8w/NS8yMDE4LTA1LTI0/XzEzMDcucG5nP3Jl/c2l6ZT02NDAlMkMz/NjAmc3NsPTE" alt="Buy me a coffee" width="250" />
+</a>
+</div>
+
 [website]: http://treportelie.fr
 [twitter]: https://twitter.com/TreportElie1
 [linkedin]: https://www.linkedin.com/in/elie-treport/
