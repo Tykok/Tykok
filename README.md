@@ -133,7 +133,7 @@
 </div>
 
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="tykok" data-color="#FF5F5F" data-emoji="🍣"  data-font="Cookie" data-text="Buy me a sushi" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<a href="https://www.buymeacoffee.com/tykok"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a sushi&emoji=🍣&slug=tykok&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 [website]: http://treportelie.fr
 [twitter]: https://twitter.com/TreportElie1
