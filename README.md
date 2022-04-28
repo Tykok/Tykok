@@ -133,10 +133,7 @@
 </div>
 
 
-<a href="https://www.buymeacoffee.com/tykok">
-<img src="https://imgs.search.brave.com/UAT3nr_cBl_JYiBTvYfzhY4c4Q82Ogt5afdnI5f-hfE/rs:fit:640:360:1/g:ce/aHR0cHM6Ly9pMS53/cC5jb20vZnJlZS5j/b20udHcvYmxvZy93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOC8w/NS8yMDE4LTA1LTI0/XzEzMDcucG5nP3Jl/c2l6ZT02NDAlMkMz/NjAmc3NsPTE" alt="Buy me a coffee" width="250" />
-</a>
-</div>
+<a href="https://www.buymeacoffee.com/tykok" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 [website]: http://treportelie.fr
 [twitter]: https://twitter.com/TreportElie1
