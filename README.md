@@ -132,7 +132,7 @@
 <a href="https://dev.to/@tykok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@tykok" height="30" width="40" /></a>
 </div>
 
-<br/<br/>
+<br/><br/>
 <div  align="center">
 <a href="https://www.buymeacoffee.com/tykok"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a sushi&emoji=🍣&slug=tykok&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
