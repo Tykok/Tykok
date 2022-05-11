@@ -113,14 +113,6 @@
 - [Microsoft announces $68.7 billion buyout of Activision Blizzard](https://dev.to/tykok/microsoft-announces-687-billion-buyout-of-activision-blizzard-5d6j)
 <!-- BLOG-POST-LIST:END -->
 
-## My Todoist Stats
-<!-- TODO-IST:START -->
-🏆  8,013 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 183 tasks so far           
-⏳  Longest streak is 63 days
-<!-- TODO-IST:END -->
-
 ---
 
 <div align="center">
