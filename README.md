@@ -106,11 +106,11 @@
 
 ## Latest blog post
 <!-- BLOG-POST-LIST:START -->
+- [Use variables in your package.json](https://dev.to/tykok/use-variables-in-your-packagejson-331j)
 - [Meta announce the use of NFT](https://dev.to/tykok/meta-announce-the-use-of-nft-2cgi)
 - [A French IA win against eight world champion of bridge](https://dev.to/tykok/a-french-ia-win-against-eight-world-champion-of-bridge-2akp)
 - [An auctions due to the close of &quot;United Front Games&quot; studio make a gamer really happy](https://dev.to/tykok/an-auctions-due-to-the-close-of-united-front-games-studio-make-a-gamer-really-happy-dkl)
 - [&quot;DALL-E&quot; Artificial intelligence that will draw your text](https://dev.to/tykok/dall-e-artificial-intelligence-that-will-draw-your-text-4ogg)
-- [Microsoft announces $68.7 billion buyout of Activision Blizzard](https://dev.to/tykok/microsoft-announces-687-billion-buyout-of-activision-blizzard-5d6j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
