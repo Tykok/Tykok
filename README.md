@@ -1,7 +1,7 @@
-### Hi I'm Tykok aka [Treport Elie][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Hi I'm Tykok aka [Treport Elie][website] 
 
 <br/>
-<h2> Who am I ? <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> Who am I ?</h2>
 
 
 - 🕺 I'm Elie, a student who always want to learn new thing 😊.
@@ -22,8 +22,7 @@
 
 ---
 
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills  </h2>
 
 <details>
 <summary> Languages and Tools I Actually want to learn</summary>
@@ -116,13 +115,14 @@
 ---
 
 <div align="center">
-<h2> Don't hesitate, contact me to work together <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Don't hesitate, contact me to work together </h2>
 <a target="_blank" href = 'https://www.linkedin.com/in/elie-treport'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a target="_blank" href = 'https://www.twitter.com/@TreportElie1'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a target="_blank" href = 'treportelie.fr'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a target="_blank" href = 'https://www.github.com/Tykok'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href="https://dev.to/@tykok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@tykok" height="30" width="40" /></a>
 </div>
+
 
 <br/><br/>
 <div  align="center">
@@ -134,3 +134,7 @@
 [linkedin]: https://www.linkedin.com/in/elie-treport/
 [github]: https://github.com/Tykok
 [dev.to]: https://dev.to/@tykok
+
+<div align="center">
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+</div>
