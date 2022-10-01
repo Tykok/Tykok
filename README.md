@@ -17,6 +17,7 @@
 [<img align="left" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src="https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/>][github]
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to follow"/>][dev.to]
+[<img src="https://img.shields.io/badge/malt-FF5B57?style=for-the-badge&logoColor=white" alt="Malt"/>][malt]
 
 <br />
 
@@ -134,6 +135,7 @@
 [linkedin]: https://www.linkedin.com/in/elie-treport/
 [github]: https://github.com/Tykok
 [dev.to]: https://dev.to/@tykok
+[malt]: https://www.malt.fr/profile/elietreport
 
 <div align="center">
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
