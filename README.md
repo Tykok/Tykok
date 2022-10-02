@@ -106,11 +106,11 @@
 
 ## Latest blog post
 <!-- BLOG-POST-LIST:START -->
+- [Please, comment your code...](https://dev.to/tykok/please-comment-your-code-4jj0)
 - [Why the object approach with JavaScript methods is the best for me](https://dev.to/tykok/the-object-approach-with-javascript-methods-is-the-best-for-me-1p5j)
 - [How i spent 1 hour of my time for a line break in a Bash.](https://dev.to/tykok/how-i-spent-1-hour-of-my-time-for-a-line-break-in-a-bash-2m8m)
 - [Use variables in your package.json](https://dev.to/tykok/use-variables-in-your-packagejson-331j)
 - [Meta announce the use of NFT](https://dev.to/tykok/meta-announce-the-use-of-nft-2cgi)
-- [A French IA win against eight world champion of bridge](https://dev.to/tykok/a-french-ia-win-against-eight-world-champion-of-bridge-2akp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
