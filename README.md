@@ -1,5 +1,7 @@
 ### Hi I'm Tykok aka [Treport Elie][website] 
 
+> This README will be updated soon !
+
 <br/>
 <h2> Who am I ?</h2>
 
