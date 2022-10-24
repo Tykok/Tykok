@@ -1,17 +1,14 @@
 ### Hi I'm Tykok aka [Treport Elie][website] 
 
-> This README will be updated soon !
-
 <br/>
 <h2> Who am I ?</h2>
 
-
 - 🕺 I'm Elie, a student who always want to learn new thing 😊.
-- 🏫 I just start studying at [IPI School](https://www.ipi-ecoles.com) and work with [MecaLife](https://mecalife.com) 🏎️.
-- 🌱 I’m currently learning a lot of thing 😆, and I'll start to create many project ideas 👷(written in a very small notebook 📓) .
+- 🏫 I am currently studying at [IPI School](https://www.ipi-ecoles.com) and work with [Pictarine](https://pictarine.com/fr) 📸.
+- 🌱 I’m currently learning a lot of thing 😆, and I currently start to create many project ideas 👷(always written in a very small notebook or in my To do list 📓) .
 - 👯 I try to improve myself by working on different projects.
 - 🎆 2022 Goals: Create my first real project, and share it as much as possible.
-- 🥳 I love playing videos games 🎮 and I'll restart to draw soon (I will post my different drawing on my website). But in my free time, generally i love to ride and joking with my friends 🚲.
+- 🥳 I love playing videos games 🎮 and I am currently drawing again (I will post my different drawing on my website soon). But in my free time, generally i love to ride and joking with my friends 🚲.
 
 ### Connect with me:
 
@@ -34,7 +31,6 @@
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
- <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p> 
 </details>
@@ -44,11 +40,12 @@
 <details>
 <summary> Languages and Tools I Actually try to improve myself</summary>
 <p align="center"> 
+ <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+ <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/a/AATXAJwAOGvRGP32OUwcbemAQZW_5511wc8GU1-pcw=s900-c-k-c0xffffffff-no-rj-mo" alt="c" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
- <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
@@ -63,6 +60,7 @@
 <details>
 <summary> Languages and Tools I Actually know</summary>
 <p align="center"> 
+ <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
