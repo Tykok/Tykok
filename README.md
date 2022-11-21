@@ -7,7 +7,7 @@
 - 🏫 I am currently studying at [IPI School](https://www.ipi-ecoles.com) and work with [Pictarine](https://pictarine.com/fr) 📸.
 - 🌱 I’m currently learning a lot of thing 😆, and I currently start to create many project ideas 👷(always written in a very small notebook or in my To do list 📓) .
 - 👯 I try to improve myself by working on different projects.
-- 🎆 2022 Goals: Create my first real project, and share it as much as possible.
+- 🎆 2022 Goals: Create my first real project, and share it as much as possible (is actually on the way). ✅
 - 🥳 I love playing videos games 🎮 and I am currently drawing again (I will post my different drawing on my website soon). But in my free time, generally i love to ride and joking with my friends 🚲.
 
 ### Connect with me:
