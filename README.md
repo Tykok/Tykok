@@ -95,9 +95,15 @@
 
 <br/>
 <div align="center">
-<img alt="Langage stat" src="https://github-readme-stats.vercel.app/api/?username=tykok&theme=github_dark&layout=compact" />
+ 
+
+![Tykok stats](https://github-readme-stats.vercel.app/api?username=tykok&count_private=true&show_icons=true&theme=dracula)
+
+ 
 <br/><br/>
-<img alt="Langage stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tykok&theme=github_dark&layout=compact" />
+
+ 
+ ![Tykok most used langage](https://github-readme-stats.vercel.app/api/top-langs/?username=tykok&theme=github_dark)
 
 </div>
 
