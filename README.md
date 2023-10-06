@@ -94,11 +94,11 @@
 
 ## Latest blog post
 <!-- BLOG-POST-LIST:START -->
+- [PokeAPI Library 🚀](https://dev.to/tykok/pokeapi-library-43d3)
+- [Follow me on medium ❤️](https://dev.to/tykok/follow-me-on-medium-2f7g)
 - [Chinese npm package 汉译英](https://dev.to/tykok/chinese-npm-package-yi-yi-ying-310d)
 - [Please, comment your code...](https://dev.to/tykok/please-comment-your-code-4jj0)
 - [Why the object approach with JavaScript methods is the best for me](https://dev.to/tykok/the-object-approach-with-javascript-methods-is-the-best-for-me-1p5j)
-- [How i spent 1 hour of my time for a line break in a Bash.](https://dev.to/tykok/how-i-spent-1-hour-of-my-time-for-a-line-break-in-a-bash-2m8m)
-- [Use variables in your package.json](https://dev.to/tykok/use-variables-in-your-packagejson-331j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
