@@ -1,18 +1,18 @@
 
-### Hi I'm Tykok aka [Treport Elie][website] 
+### Hi I'm Tykok aka [Treport Elie][website]
 
 <br/>
 <h2> Who am I ?</h2>
 
 - 🕺 I'm Elie, a student who always want to learn new thing 😊.
-- 🏫 I am currently studying at [IPI School](https://www.ipi-ecoles.com) and work with [Pictarine](https://pictarine.com/) 📸.
+- 🏫 I am currently working with [Pictarine](https://pictarine.com/) 📸.
 - 🌱 I'm currently working on my soft skills and try to be a better developer.
 - 👯 I try to improve myself by working on different projects.
 - 🎆 2024 Goals:
-  - 🔜 Make 1 large project I have in my Todo list 🔥
-  - 🚀 Create a new portfolio at [tykok.fr](http://tykok.fr) 
-  - 📎 Have a knowledge base in my personal Notion, which I will share in my future portfolio
-  - ✍🏼 Continue to experiment with drawing !
+    - 🔜 Make 1 large project I have in my Todo list 🔥
+    - 🚀 Create a new portfolio at [tykok.fr](http://tykok.fr)
+    - 📎 Have a knowledge base in my personal Notion, which I will share in my future portfolio
+    - ✍🏼 Continue to experiment with drawing !
 
 ### Connect with me:
 
