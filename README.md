@@ -1,18 +1,10 @@
-
-### Hi I'm Tykok aka [Treport Elie][website]
+### Hi, I'm Tykok aka [Elie Treport][website] 👋
 
 <br/>
-<h2> Who am I ?</h2>
 
-- 🕺 I'm Elie, a student who always want to learn new thing 😊.
-- 🏫 I am currently working with [Pictarine](https://pictarine.com/) 📸.
-- 🌱 I'm currently working on my soft skills and try to be a better developer.
-- 👯 I try to improve myself by working on different projects.
-- 🎆 2024 Goals:
-    - 🔜 Make 1 large project I have in my Todo list 🔥
-    - 🚀 Create a new portfolio at [tykok.fr](http://tykok.fr)
-    - 📎 Have a knowledge base in my personal Notion, which I will share in my future portfolio
-    - ✍🏼 Continue to experiment with drawing !
+<p align="center">
+  <a href="#francais">🇫🇷 Français</a> • <a href="#english">🇬🇧 English</a>
+</p>
 
 ### Connect with me:
 
@@ -26,57 +18,88 @@
 
 ---
 
-<h2> Skills  </h2>
+<a name="francais"></a>
+## 🇫🇷 Qui suis-je ?
+
+- 🧑‍💻 Développeur backend chez [Pictarine](https://pictarine.com/) 📸, sur du **Kotlin / Spring Boot / PostgreSQL**.
+- 🏝️ Originaire de La Réunion, passionné par les dynamiques socio-économiques des territoires d'Outre-mer.
+- 🛠️ Je bricole un homelab (Proxmox, NAS, Home Assistant, N8N...) et j'aime construire des projets à la croisée de l'infra, de l'automatisation et de la civic tech.
+- ✍️ J'écris régulièrement des articles techniques sur dev.to et Medium.
+- 🎆 Objectifs 2026 :
+    - 🚀 Faire avancer All for Trash
+    - ✍️ Continuer à publier des articles techniques
+    - 📎 Construire ma base de connaissance Notion et la partager sur mon portfolio
+
+**🚀 Projet phare — All for Trash** : application civic tech (React Native / Expo / Supabase) pour signaler les dépôts sauvages dans les territoires d'Outre-mer, avec un système de gamification.
+
+<!-- 🔗 Ajoute ici le lien du repo quand il est public -->
+
+---
+
+<a name="english"></a>
+## 🇬🇧 About me
+
+- 🧑‍💻 Backend developer at [Pictarine](https://pictarine.com/) 📸, working with **Kotlin / Spring Boot / PostgreSQL**.
+- 🏝️ Originally from La Réunion, passionate about the socio-economic dynamics of French overseas territories.
+- 🛠️ I run a homelab (Proxmox, NAS, Home Assistant, N8N...) and enjoy building projects at the crossroads of infrastructure, automation, and civic tech.
+- ✍️ I regularly write technical articles on dev.to and Medium.
+- 🎆 2026 goals:
+    - 🚀 Keep pushing All for Trash forward
+    - ✍️ Keep publishing technical articles
+    - 📎 Build my Notion knowledge base and share it on my portfolio
+
+**🚀 Featured project — All for Trash**: civic tech app (React Native / Expo / Supabase) for reporting illegal waste dumps in French overseas territories, with a gamification system.
+
+<!-- 🔗 Add the repo link here once it's public -->
+
+---
+
+<h2> Skills </h2>
 
 <details>
-<summary> Languages and Tools I Actually want to learn</summary>
-<p align="center"> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/> </a>
-</p> 
-</details>
-
-<br/>
-
-<details>
-<summary> Languages and Tools I Actually try to improve myself</summary>
-<p align="center"> 
- <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/a/AATXAJwAOGvRGP32OUwcbemAQZW_5511wc8GU1-pcw=s900-c-k-c0xffffffff-no-rj-mo" alt="c" width="40" height="40"/> </a>
+<summary> Ce que j'utilise au quotidien / What I use daily </summary>
+<p align="center">
  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+ <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a>
+ <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+ <a href="https://traefik.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/traefikproxy/traefikproxy-original.svg" alt="traefik" width="40" height="40"/> </a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+ <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 </details>
 
 <br/>
 
 <details>
-<summary> Languages and Tools I Actually know</summary>
-<p align="center"> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<summary> Ce que je suis en train d'approfondir / What I'm currently learning </summary>
+<p align="center">
+ <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
+ <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/proxmox/proxmox-original.svg" alt="proxmox" width="40" height="40"/> </a>
+ <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="40" height="40"/> </a>
+</p>
+</details>
+
+<br/>
+
+<details>
+<summary> Ce que je connais aussi / Also familiar with </summary>
+<p align="center">
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- </p>
+</p>
 </details>
 
 <br />
 <br />
 
-
-## Latest blog post
+## Derniers articles / Latest posts
 <!-- BLOG-POST-LIST:START -->
 - [The new HTTP method : QUERY](https://dev.to/tykok/the-new-http-method-query-2bec)
 - [PokeAPI Library 🚀](https://dev.to/tykok/pokeapi-library-43d3)
@@ -88,11 +111,11 @@
 ---
 
 <div align="center">
-<h2> Don't hesitate, contact me to work together </h2>
-<a target="_blank" href = 'https://www.linkedin.com/in/elie-treport'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a target="_blank" href = 'https://www.twitter.com/@TreportElie1'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a target="_blank" href = 'treportelie.fr'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a target="_blank" href = 'https://www.github.com/Tykok'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<h2> N'hésite pas à me contacter pour échanger </h2>
+<a target="_blank" href = 'https://www.linkedin.com/in/elie-treport'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a target="_blank" href = 'https://www.twitter.com/@TreportElie1'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+<a target="_blank" href = 'http://tykok.fr'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
+<a target="_blank" href = 'https://www.github.com/Tykok'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href="https://dev.to/@tykok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@tykok" height="30" width="40" /></a>
 </div>
 
@@ -102,7 +125,7 @@
 <a href="https://www.buymeacoffee.com/tykok"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a sushi&emoji=🍣&slug=tykok&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
 
-[website]: http://treportelie.fr
+[website]: http://tykok.fr
 [twitter]: https://twitter.com/TreportElie1
 [linkedin]: https://www.linkedin.com/in/elie-treport/
 [github]: https://github.com/Tykok
